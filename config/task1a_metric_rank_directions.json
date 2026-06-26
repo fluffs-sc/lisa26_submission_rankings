@@ -1,0 +1,9 @@
+{
+  "metric_directions": {
+    "Accuracy": "higher_is_better",
+    "F1_score": "higher_is_better",
+    "F2_score": "higher_is_better",
+    "Precision": "higher_is_better",
+    "Recall": "higher_is_better"
+  }
+}
